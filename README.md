@@ -1,3 +1,10 @@
+# What is this?
+
+Just watch: https://youtu.be/doaBfUsiM6Y
+
+___Don't worry. it's not a Rick Roll video___
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          /data/data/com.termux/files/home/sample/maple
         </a>
       </header>
     </div>
